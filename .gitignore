@@ -3,3 +3,9 @@
 
 #Private files
 **/private/
+
+#Minio files
+data/.minio.sys/
+
+#Shell task (contains credentials)
+run_minio.sh
